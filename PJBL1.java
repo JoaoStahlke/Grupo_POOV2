@@ -22,13 +22,6 @@ public class PJBL1 {
                 result = num1 / num2;
                 double resultado = result;
                 System.out.print(resultado);
-
-
-
-
-
-
-
                 
                 break;
         }
