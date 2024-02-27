@@ -18,6 +18,11 @@ public class PJBL1 {
             case '+': // Abertura de "case" para as diferentes operações
                 result = num1 + num2;
                 break;
-
-
+            case '/':
+                result = num1 / num2;
+                double resultado = result;
+                System.out.print(resultado);
+                break;
         }
+    }
+}
